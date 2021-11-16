@@ -162,6 +162,8 @@ If the balance is less than the `threshold`, you want to set a `openForWithdraw`
 🚔 Traffic to your url might break the [Infura](https://infura.io/) rate limit, edit your key: `constants.js` in `packages/ract-app/src`.
 
 > 🎖 Show off your app by pasting the url in the [Challenge 1 telegram channel](https://t.me/joinchat/E6r91UFt4oMJlt01)
+> https://dazzling-mass.surge.sh/
+> 
 
 ---
 
